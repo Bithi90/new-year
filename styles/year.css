@@ -1,0 +1,135 @@
+.banner-img{
+    background-image:url('../images/banner/banner1.png');
+    width: 1600px;
+    height: 808px;
+    left: 1608px;
+    top: 967px;
+    
+}
+.banner-contant{
+    text-align: right;
+    padding:  57px 238px 523px 837px;
+
+}
+.banner-title{
+    font-family: 'work-Sans';
+    font-weight: 700px;
+    font-size: 65px;
+    color: #151414;
+}
+.banner-description{
+    font-weight: 400px;
+    font-size: 16px;
+    color: #444343;
+}
+.banner-button{
+    height: 64px;
+    width: 160px;
+    background-color: #FD6E0A;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 200px;
+}
+.second-section{
+    display: flex;
+    gap: 87px;
+    align-items: center;
+}
+   
+.second-image{
+    size: 569px 723.3px;
+}
+
+}
+.contant{
+   
+   
+}
+   
+    
+.second-title{
+    font-family: 'work-Sans';
+    font-weight: 700px;
+    font-size: 40px;
+    color: #151414;
+    font-style: normal;
+   
+    
+}
+.third-title{
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.third-contant{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 230px;
+    margin-bottom: 50px;
+
+}
+
+/* main section */
+ .watch-image{
+    
+    
+   
+   
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-position: top ;
+    
+    max-height: 300px;
+    max-width: 1140px;
+   
+
+
+
+ }
+ .image-contant{
+    padding: 58px 617px 60px 64px ;
+ }
+ .footer-section{
+    display: flex;
+    align-items: center;
+    background-color: #151414;
+    background-size: 1600px 585px ;
+    gap: 330px;
+    
+ }
+ .footer-contant{
+    align-items: center;
+    padding-right: 154px 885px 114px 230px ;
+    margin-left: 230px ;
+   
+
+ }
+ .f-contant-title{
+    font-size: 45px;
+    font-weight: 700px;
+    color: aliceblue;
+ }
+ .f-con-sub-title{
+    font-size:16px ;
+    font-weight: 400px;
+    color: aliceblue;
+ }
+ .footer-icon{
+    
+ }
+ .footer-form{
+    margin-right: 229px;
+   
+ }
+ .form-title{
+    font-size: 45px;
+    font-weight: 700px;
+    color: aliceblue;
+ }
+ .form-input{
+    gap: 10px;
+ }
+
+
+
+   
